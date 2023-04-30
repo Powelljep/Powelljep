@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Powelljep
 - 👀 I’m interested in Software Developement and Learning new technologies.
-- 🌱 I’m currently learning how to code in React and Spring
+- 🌱 I’m currently learning how to code in React and Django
 - 💞️ I’m looking to collaborate on any project that will expose me to real life coding experience with great leaning curve.
 - 📫 You can reach me through my gmail account: powell.john2011@gmail.com
 
